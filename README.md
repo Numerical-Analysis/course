@@ -1,9 +1,12 @@
 # Fall 2017 Math 395 Numerical Analysis 
 
 Course website: https://github.com/Numerical-Analysis/course
+Syllabus: 
 
 ## About GitHub
 - You need to have a GitHub account. 
+- A quick guide on branches and pull requests: https://guides.github.com/activities/hello-world/
+- 
 
 ## How to do your python projects
 - Step 1: Go to the link for that project.
