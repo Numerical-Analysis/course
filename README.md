@@ -21,7 +21,7 @@ Syllabus:
 ```
 
 ## Contribute to the class
-- Create an issue if you find a typo/mistake on my answer key or my notes. Once confirmed, I will update my files and assign you extra credit. The extra credit will be recorded under ExtraCredit.md. 
+- Create an [issue](https://github.com/Numerical-Analysis/course/issues) if you find a typo/mistake on my answer key or my notes. Once confirmed, I will update my files and assign you extra credit. The extra credit will be recorded under ExtraCredit.md. 
 - If you want to ask project related question, please
 
 Project 1 link: https://classroom.github.com/a/La7fkHRG
