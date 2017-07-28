@@ -19,6 +19,8 @@ Syllabus:
 - Step 2: Authorize GitHub Classroom (Only need to be done the first time)
 - Step 3: Accept this assignment. Upon accepting, a private repository will be created for you. You can find this repository again by clicking https://github.com/Numerical-Analysis. 
 - Step 4: Do your project according to the instructions listed on INSTRUCTION.md
-- Step 5: 
+- Step 5: There is no submission button. I will be able to see your work saved before the deadline. **Only the master branch is graded.**
+
+## Contribute to the Numerical-Analysis/course repository
 
 Project 1 link: https://classroom.github.com/a/La7fkHRG
