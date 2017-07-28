@@ -7,7 +7,7 @@ Course website: https://github.com/Numerical-Analysis/course
 Syllabus: 
 
 ## About GitHub
-- You need to have a GitHub account. **Your username should reflect your real name as much as possible so that I know who I am grading. Please send me your github username by Aug 23 11:59 pm at the email address above.** 
+- You need to have a GitHub account. Your username should reflect your real name as much as possible so that I know who I am grading. Enter your real name in your public profile. **Please send me your github username by Aug 23 11:59 pm at the email address above.** 
 - A quick guide on branches and pull requests: https://guides.github.com/activities/hello-world/
 
 ## How to do your python projects
