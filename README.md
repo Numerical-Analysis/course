@@ -2,10 +2,10 @@
 
 Course website: https://github.com/Numerical-Analysis/course
 
-# About GitHub
+## About GitHub
 - You need to have a GitHub account. 
 
-# How to do your python projects
+## How to do your python projects
 - Step 1: Go to the link for that project.
 - Step 2: Authorize GitHub Classroom (Only needs to be done the first time)
 - Step 3: Accept this assignment. Upon accepting, a private repository will be created for you. You can find this repository again by clicking https://github.com/Numerical-Analysis.
