@@ -1,6 +1,7 @@
 # Fall 2017 Math 395 Numerical Analysis 
 
 Course website: https://github.com/Numerical-Analysis/course
+
 Syllabus: 
 
 ## About GitHub
