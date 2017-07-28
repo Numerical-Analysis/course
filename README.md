@@ -3,8 +3,9 @@
 Course website: https://github.com/Numerical-Analysis/course-Information
 
 # How to do your python projects
-Step 1: Go to the link for that project.
-Step 2: Authorize GitHub Classroom (Only needs to be done the first time)
-Step 3: Accept this assignment
+- Step 1: Go to the link for that project.
+- Step 2: Authorize GitHub Classroom (Only needs to be done the first time)
+- Step 3: Accept this assignment. Upon accepting, 
+- Step 4: Do your project according to the instructions
 
 Project 1 link: https://classroom.github.com/a/La7fkHRG
