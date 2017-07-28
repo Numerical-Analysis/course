@@ -1,6 +1,9 @@
-# Fall 2017 Math 395 Numerical Analysis  (and Numerical Linear Algebra)
+# Fall 2017 Math 395 Numerical Analysis 
 
 Course website: https://github.com/Numerical-Analysis/course
+
+# About GitHub
+- You need to have a GitHub account. 
 
 # How to do your python projects
 - Step 1: Go to the link for that project.
