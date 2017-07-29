@@ -18,7 +18,8 @@ Syllabus:
 - Step 3: Accept this assignment. Upon accepting, a private repository will be created for you. You can find this repository again by clicking https://github.com/Numerical-Analysis. 
 - Step 4: Create a new branch (name it however you want, say 'mine'). 
 ```diff
-Under this new branch 'mine', do your project according to the instructions listed on README.md. Keep commiting to 'mine' to make changes.
+-Under this new branch 'mine', do your project according to the instructions listed on README.md. 
+-Keep commiting to 'mine' to make changes.
 ```
 ### Below is related to submission
 - Step 5: When you are ready to submit, click 'New pull request'
