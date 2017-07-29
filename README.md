@@ -20,7 +20,7 @@ Syllabus:
 ```diff
 -Only the master branch will be graded. So put your graded work under this branch.
 ```
-- Step 5: No submission is needed. You can edit as much as you want before the deadline. Stop committing to the master branch after the deadline, or a penalty could be applied.
+- Step 5: No submission is needed. I will be able to see all your edits. You can edit as much as you want before the deadline. Stop committing to the master branch after the deadline, or a penalty could be applied.
 
 ## Contribute to the class and getting help on github 
 **You can always get help by emailing me, coming to my office hours, or make an appointment**
