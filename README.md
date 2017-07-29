@@ -32,7 +32,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 v
 - Step 3: Accept this assignment. Upon accepting, a private repository will be created for you. You can find this repository again by clicking https://github.com/Numerical-Analysis. 
 - Step 4: Do your project according to the instructions listed on README.md. 
 ```diff
--Only the master branch will be graded. So put your graded work under this branch.
+-Only the master branch will be graded. So put your to-be-graded-work under master branch.
 ```
 - Step 5: No submission is needed. I will be able to see all your edits. You can edit as much as you want before the deadline. Stop committing to the master branch after the deadline, or a penalty could be applied.
 
