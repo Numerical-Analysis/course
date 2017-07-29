@@ -35,7 +35,7 @@ Syllabus:
 - If you want to ask course material/written homework related question, you can also create an [issue](https://github.com/Numerical-Analysis/course/issues), especially if you think this is a common question.
 - Since the repository [course](https://github.com/Numerical-Analysis/course) is public, so be aware that all the issues under the repository is public and cannot be deleted.
 
-# Schedule
+## Schedule
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
 |1|Introduction|
