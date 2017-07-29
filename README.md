@@ -13,19 +13,14 @@ Syllabus:
 - A quick guide on branches and pull requests: https://guides.github.com/activities/hello-world/
 
 ## How to do your python projects
-- Step 1: Go to the link for that project.
+- Step 1: When logged into Github, go to the link for that project.
 - Step 2: Authorize GitHub Classroom (Only need to be done the first time)
 - Step 3: Accept this assignment. Upon accepting, a private repository will be created for you. You can find this repository again by clicking https://github.com/Numerical-Analysis. 
-- Step 4: Create a new branch (name it however you want, say 'mine'). 
+- Step 4: Do your project according to the instructions listed on README.md. 
 ```diff
--Under this new branch 'mine', do your project according to the instructions listed on README.md. 
--Keep commiting to 'mine' to make changes.
+Only the master branch will be graded. So put your graded work under this branch.
 ```
-### submission
-- Step 5: When you are ready to submit, click 'New pull request'
-- Step 6: Select 'mine' under compare.
-- step 7: Feel free to leave any comments, then click 'Create pull request'
-
+- Step 5: No submission is needed. You can edit as much as you want before the deadline. Stop committing to the master branch after the deadline, or a penalty could be applied.
 
 ## Contribute to the class and getting help on github 
 **You can always get help by emailing me, coming to my office hours, or make an appointment**
