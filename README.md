@@ -2,11 +2,22 @@
 
 Xuemei Chen: xchen@math.usfca.edu
 
+**Office Hours: TBD**
+
 Course website: https://github.com/Numerical-Analysis/course
 
 Canvas is for grades recording and announcements.
 
-Syllabus: 
+Please read the Syllabus very carefully. This is our contract. 
+
+I will write up notes and update it after every lecture. There are no mandary textbook.
+### Recommended textbook
+- (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
+- *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
+### Classroom policy
+
+
+
 
 ## About GitHub
 - You need to have a GitHub account. Your username should reflect your real name as much as possible so that I know who I am grading. Enter your real name in your public profile. **Please send me your github username by Aug 23 11:59 pm at the email address above.** 
