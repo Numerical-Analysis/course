@@ -22,6 +22,7 @@ Syllabus:
 -Keep commiting to 'mine' to make changes.
 ```
 [Below is related to submission](#subbmission)
+### submission
 - Step 5: When you are ready to submit, click 'New pull request'
 - Step 6: Select 'mine' under compare.
 - step 7: Feel free to leave any comments, then click 'Create pull request'
