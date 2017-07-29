@@ -21,7 +21,6 @@ Syllabus:
 -Under this new branch 'mine', do your project according to the instructions listed on README.md. 
 -Keep commiting to 'mine' to make changes.
 ```
-[Below is related to submission](#subbmission)
 ### submission
 - Step 5: When you are ready to submit, click 'New pull request'
 - Step 6: Select 'mine' under compare.
