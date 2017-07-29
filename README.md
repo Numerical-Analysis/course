@@ -44,6 +44,6 @@ I will write up [notes](NMnotes.pdf) and update it after every lecture. There ar
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
 |1|Introduction|
-|2||Project 0 link: https://classroom.github.com/a/cLJAt9Qk||
+|2||Project 0: https://classroom.github.com/a/cLJAt9Qk||
 
 
