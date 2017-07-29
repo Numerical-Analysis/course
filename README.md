@@ -1,4 +1,4 @@
-# Fall 2017 Math 395 Numerical Analysis (with python)
+# Fall 2017 Math 395 Numerical Analysis (with python 2.7)
 
 Xuemei Chen: xchen@math.usfca.edu
 
@@ -14,6 +14,10 @@ I will write up [notes](NMnotes.pdf) and update it after every lecture. There ar
 ### Recommended textbook
 - (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
 - *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
+
+### Software
+Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 version), which will get you both. PyCharm is also recommended.
+
 ### Classroom policy
 - Have your electronics silenced.
 - I ask you to be respectful of me and your classmates and to refrain from surfing the web or using social media (facebook, twitter, etc) or messaging programs during class. It is absolutely forbidden to use instant messaging programs, email, etc. during class lectures or quizzes.
