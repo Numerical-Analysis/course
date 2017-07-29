@@ -15,9 +15,8 @@ I will write up notes and update it after every lecture. There are no mandary te
 - (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
 - *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
 ### Classroom policy
-
-
-
+- Have your electronics silenced.
+- I ask you to be respectful of me and your classmates and to refrain from surfing the web or using social media (facebook, twitter, etc) or messaging programs during class. It is absolutely forbidden to use instant messaging programs, email, etc. during class lectures or quizzes.
 
 ## About GitHub
 - You need to have a GitHub account. Your username should reflect your real name as much as possible so that I know who I am grading. Enter your real name in your public profile. **Please send me your github username by Aug 23 11:59 pm at the email address above.** 
