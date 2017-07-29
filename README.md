@@ -43,7 +43,7 @@ I will write up [notes](NMnotes.pdf) and update it after every lecture. There ar
 ## Schedule
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
-|1|Introduction|
+|1|Introduction| Send me your github username||
 |2||Project 0: https://classroom.github.com/a/cLJAt9Qk||
 
 
