@@ -8,7 +8,7 @@ Course website: https://github.com/Numerical-Analysis/course
 
 Canvas is for grades recording and announcements.
 
-Please read the [Syllabus][NumericalMethods_Syllabus.pdf] very carefully. This is our contract. 
+Please read the [Syllabus](NumericalMethods_Syllabus.pdf) very carefully. This is our contract. 
 
 I will write up [notes](NMnotes.pdf) and update it after every lecture. There are no mandary textbook. Some [Jupyter notebooks](/nbs) will be used during lecture.
 ### Recommended textbook
