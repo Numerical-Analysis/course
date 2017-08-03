@@ -50,5 +50,6 @@ Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 v
 |:---: | :---  | :---:  | :---:  |
 |1|Introduction| Send me your github username||
 |2||Project 0: https://classroom.github.com/a/cLJAt9Qk||
+|3||Linear Algebra review assignment||
 
 
