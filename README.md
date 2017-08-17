@@ -18,7 +18,7 @@ I will write up [notes](NMnotes.pdf) and update it after every lecture. There ar
 ### Software
 Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 version), which will get you both. PyCharm is also recommended.
 
-### Classroom policy (Shall we call it be respectful)
+### Classroom policy
 - Arrive on time. 
 - Have your electronics silenced.
 - I ask you to be respectful of me and your classmates and to refrain from surfing the web or using social media (facebook, twitter, etc) or messaging programs during class. It is absolutely forbidden to use instant messaging programs, email, etc. during class lectures or quizzes.
