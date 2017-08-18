@@ -10,7 +10,7 @@ Canvas is for grades recording and announcements.
 
 Please read the [Syllabus](NumericalMethods_Syllabus.pdf) very carefully. This is our contract. 
 
-There are no mandary textbook. I will write up [notes](NMnotes.pdf) and update it after every lecture. Some [Jupyter notebooks](/nbs) will be used during lecture.
+There are no mandary textbook. I will write up [notes](NumericalMethodsNotes.pdf) and update it after every lecture. Some [Jupyter notebooks](/nbs) will be used during lecture.
 ### Recommended textbook
 - (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
 - *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
