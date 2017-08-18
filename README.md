@@ -10,13 +10,13 @@ Canvas is for grades recording and announcements.
 
 Please read the [Syllabus](NumericalMethods_Syllabus.pdf) very carefully. This is our contract. 
 
-I will write up [notes](NMnotes.pdf) and update it after every lecture. There are no mandary textbook. Some [Jupyter notebooks](/nbs) will be used during lecture.
+There are no mandary textbook. I will write up [notes](NMnotes.pdf) and update it after every lecture. Some [Jupyter notebooks](/nbs) will be used during lecture.
 ### Recommended textbook
 - (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
 - *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
 
 ### Software
-Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 version), which will get you both. PyCharm is also recommended.
+Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 version)](https://www.continuum.io/downloads), which will get you both. PyCharm is also recommended.
 
 ### Classroom policy
 - Arrive on time. 
@@ -39,8 +39,8 @@ Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 v
 
 ## Contribute to the class and get help on github 
 **You can always get help by emailing me, coming to my office hours, or making an appointment**
-- Feel free to add resources and thoughts that you think will benefit the whole class to [Wiki](https://github.com/Numerical-Analysis/course/wiki). I will give extra credit reasonable/good contributions.
-- Create an [issue](https://github.com/Numerical-Analysis/course/issues) if you find a typo/mistake on my answer key or my notes. Once confirmed, I will update my files and assign you extra credit (typos excluded, first come first serve). The extra credit will be recorded under [ExtraCredit.md](ExtraCredit.md). 
+- Feel free to add resources and thoughts that you think will benefit the whole class to [Wiki](https://github.com/Numerical-Analysis/course/wiki). I will give extra credit for reasonable/good contributions.
+- Create an [issue](https://github.com/Numerical-Analysis/course/issues) if you find a typo/mistake on my answer key or my notes. Once confirmed, I will update my files and assign you extra credit (first come first serve). The extra credit will be recorded under [ExtraCredit.md](ExtraCredit.md). 
 - If you want to ask project related questions, please create an issue under your own private repository of that project. Only you and I can see this issue.
 - If you want to ask course material/written homework related question, you can also create an [issue](https://github.com/Numerical-Analysis/course/issues), especially if you think this is a common question.
 - Since the repository [course](https://github.com/Numerical-Analysis/course) is public, so be aware that all the issues under the repository is public and cannot be deleted.
@@ -48,8 +48,8 @@ Python 2.7 and Jupyter Notebook. I recommend you install Ananconda (Python 2.7 v
 ## Schedule
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
-|1|Introduction| Send me your github username||
-|2||Project 0: https://classroom.github.com/a/cLJAt9Qk||
-|3||Linear Algebra review assignment||
+|1|Introduction| Send me your github username, Project 0: https://classroom.github.com/a/cLJAt9Qk|8/29|
+|2||||
+
 
 
