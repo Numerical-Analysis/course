@@ -48,7 +48,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 ## Schedule
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
-|(1) 8/22|Introduction| Office hour survey (on Canvas->Quizzes) <br> Send me your github username, read [this](https://guides.github.com/activities/hello-world/) |8/27<br>8/23|
+|(1) 8/22|(L) Introduction| Office hour survey (on Canvas->Quizzes) <br> Send me your github username, read [this](https://guides.github.com/activities/hello-world/) |8/27<br>8/23|
 |(2) 8/24||Project 0: https://classroom.github.com/a/cLJAt9Qk|8/29 noon|
 
 
