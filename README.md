@@ -45,7 +45,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 - If you want to ask course material/written homework related question, you can also create an [issue](https://github.com/Numerical-Analysis/course/issues), especially if you think this is a common question.
 - Since the repository [course](https://github.com/Numerical-Analysis/course) is public, so be aware that all the issues under the repository is public and cannot be deleted.
 
-## Schedule
+## Schedule (L means laptop)
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
 |(1) 8/22|(L) Introduction| Office hour survey (on Canvas->Quizzes) <br> Send me your github username, read [this](https://guides.github.com/activities/hello-world/) |8/27<br>8/23|
