@@ -46,7 +46,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 - Since the repository [course](https://github.com/Numerical-Analysis/course) is public, so be aware that all the issues under the repository is public and cannot be deleted.
 
 ## Schedule 
-('L' means bring laptop that day  &nbsp&nbsp&nbsp&nbsp    'Q' means we have quiz that day)
+('L' means bring laptop that day  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    'Q' means we have quiz that day)
 
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
