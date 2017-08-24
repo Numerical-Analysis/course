@@ -46,12 +46,12 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 - Since the repository [course](https://github.com/Numerical-Analysis/course) is public, so be aware that all the issues under the repository is public and cannot be deleted.
 
 ## Schedule 
-(L means bring laptop that day)
+('L' means bring laptop that day      'Q' means we have quiz that day)
 
 | Lecture | Topic | Assignment | Due Date |
 |:---: | :---  | :---:  | :---:  |
 |(1) 8/22|(L) Introduction| Office hour survey (on Canvas->Quizzes) <br> Send me your github username, read [this](https://guides.github.com/activities/hello-world/) |8/27<br>8/23|
-|(2) 8/24|Nonlinear equations|Project 0: https://classroom.github.com/a/cLJAt9Qk|8/29 noon|
+|(2) 8/24|Nonlinear equations|Project 0: https://classroom.github.com/a/cLJAt9Qk<br> Chapter 1 #1-5|8/29 noon <br> 8/31|
 
 
 
