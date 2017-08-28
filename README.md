@@ -1,21 +1,21 @@
 # Fall 2017 Math 395 Numerical Analysis (with python 2.7)
 
-Xuemei Chen: xchen@math.usfca.edu
+-- Xuemei Chen: xchen@math.usfca.edu
 
-**Office Hours: Tu 10:30-11:30, Wed 1-3 at Harney 121B**
+-- **Office Hours: Tu 10:30-11:30, Wed 1-3 at Harney 121B**
 
 There is a good chance for me to be on campus on: 
 
  Monday Mornings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday 9:30 - 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday mornings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday mornings|
 
 
-Course website: https://github.com/Numerical-Analysis/course
+-- Course website: https://github.com/Numerical-Analysis/course
 
 Canvas is for grades recording and announcements.
 
-Please read the [Syllabus](NumericalMethods_Syllabus.pdf) very carefully. This is our contract. 
+-- Please read the [Syllabus](NumericalMethods_Syllabus.pdf) very carefully. This is our contract. 
 
-There are no mandary textbook. I will write up [notes](NumericalMethodsNotes.pdf) and update it after every lecture. Some [Jupyter notebooks](/nbs) will be used during lecture.
+-- There are no mandary textbook. I will write up [notes](NumericalMethodsNotes.pdf) and update it after every lecture. Some [Jupyter notebooks](/nbs) will be used during lecture.
 ### Recommended textbook
 - (Buy this book if you can) *Numerical methods: design, analysis, and computer implementation of algorithms*, Anne, Greenbaum, and Timothy P. Chartier. Princeton University Press, 2012.
 - *Numerical Linear Algebra*, Trefethen and Bau, Siam 1997
