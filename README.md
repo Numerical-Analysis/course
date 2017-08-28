@@ -4,6 +4,11 @@ Xuemei Chen: xchen@math.usfca.edu
 
 **Office Hours: Tu 10:30-11:30, Wed 1-3 at Harney 121B**
 
+There is a good chance for me to be on campus on: 
+
+| Monday Mornings | Tuesday 9:30 - 10:30 | Wednesday mornings| Thursday mornings|
+|:---: | :---  | :---:  | :---:  |
+
 Course website: https://github.com/Numerical-Analysis/course
 
 Canvas is for grades recording and announcements.
