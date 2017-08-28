@@ -2,7 +2,7 @@
 
 Xuemei Chen: xchen@math.usfca.edu
 
-**Office Hours: TBD**
+**Office Hours: Tu 10:30-11:30, Wed 1-3 at Harney 121B**
 
 Course website: https://github.com/Numerical-Analysis/course
 
