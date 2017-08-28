@@ -6,8 +6,8 @@ Xuemei Chen: xchen@math.usfca.edu
 
 There is a good chance for me to be on campus on: 
 
-| Monday Mornings | Tuesday 9:30 - 10:30 | Wednesday mornings| Thursday mornings|
-|:---: | :---  | :---:  | :---:  |
+ Monday Mornings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday 9:30 - 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday mornings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday mornings|
+
 
 Course website: https://github.com/Numerical-Analysis/course
 
