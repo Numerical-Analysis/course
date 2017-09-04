@@ -59,7 +59,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(2) 8/24|Nonlinear equations|Project 0: https://classroom.github.com/a/cLJAt9Qk<br> Written HW 1: Chapter 1 #1-6 |8/29 noon <br> 8/31|
 |(3) 8/29|Fixed point arithmetic |||
 |(4) 8/31|FPA|Project1: https://classroom.github.com/a/utY8PCfe|9/7 midnight |
-|(5) 9/5|(Q) Linear algebra review |Written Hw 2|9/12 |
+|(5) 9/5|(Q) Linear algebra review |Written HW 2: Chapter 2 #1-6 |9/12 |
 
 
 
