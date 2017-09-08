@@ -60,7 +60,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(3) 8/29|Fixed point arithmetic |||
 |(4) 8/31|FPA|Project1: https://classroom.github.com/a/utY8PCfe|9/7 midnight |
 |(5) 9/5|(Q) Linear algebra review |Written HW 2: Chapter 2 #1-6 <br> review linear combination, span, independence, Gaussian Elimination |9/12 (for WH2) |
-|(6) 9/7|LA review, matrix norm|[Linear algebra review questions](LAreviewQ.pdf)|no need to turn in|
+|(6) 9/7|LA review, matrix norm|[Linear algebra review questions](other/LAreviewQ.pdf)|no need to turn in|
 |(7) 9/12||||
 |(8) 9/14|(Q)|||
 
