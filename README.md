@@ -63,7 +63,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(6) 9/7|LA review, matrix norm|[Linear algebra review questions](other/LAreviewQ.pdf)|no need to turn in|
 |(7) 9/12|matrix norm, Gauss Elim.|||
 |(8) 9/14|(Q) LU factorization, pivoting|Written HW 3: Chapter 3 #1-8|9/19|
-|(9) 9/19|Pivoting, PD|Written HW 4: |9/26|
+|(9) 9/19|Pivoting, PD|Written HW 4: Chapter 3 #9-12, Chapter 4 #1-6|9/26|
 
 
 
