@@ -65,6 +65,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(8) 9/14|(Q) LU factorization, pivoting|Written HW 3: Chapter 3 #1-8|9/19|
 |(9) 9/19|Pivoting, PD|Written HW 4: Chapter 3 #9-12, Chapter 4 #1-6|9/26|
 |(10) 9/21|(L) Cholesky, least square|Correct WHW3!!||
+|(11) 9/26| SVD |Project 2:|10/3 midnight|
 
 
 
