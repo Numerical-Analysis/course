@@ -1,4 +1,7 @@
 #  Extra credit recorder
+
+Juanita Gomez: +1 (notes correction)
+
 Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
 
 Brendan Jenkins: +1 (LAreviewQ)
