@@ -66,7 +66,8 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(9) 9/19|Pivoting, PD|Written HW 4: Chapter 3 #9-12, Chapter 4 #1-6|9/26|
 |(10) 9/21|(L) Cholesky, least square|Correct WHW3!!||
 |(11) 9/26| SVD |Project 2: https://classroom.github.com/a/dI6bTfUp|10/3 midnight|
-|(12) 9/28|(Q) Quiz3 on WH3+4|||
+|(12) 9/28|Stability, condition number|||
+|(13) 10/3|(Q) projection, gram-schmidt, QR|WH5: ch1.13, ch4.7-10, ch5.1-4, ch6.1|10/7|
 
 
 
