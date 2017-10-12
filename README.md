@@ -57,7 +57,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |:--- | :---  | :---  | :---  |
 |(1) 8/22|(L) Introduction| Office hour survey (on Canvas->Quizzes) <br> Send me your github username, read [this](https://guides.github.com/activities/hello-world/) |8/27<br>8/23|
 |(2) 8/24|Nonlinear equations|Project 0: https://classroom.github.com/a/cLJAt9Qk<br> Written HW 1: Chapter 1 #1-6 |8/29 noon <br> 8/31|
-|(3) 8/29|Fixed point arithmetic |||
+|(3) 8/29|Floating point arithmetic |||
 |(4) 8/31|FPA|Project1: https://classroom.github.com/a/utY8PCfe|9/7 midnight |
 |(5) 9/5|(Q) Linear algebra review |Written HW 2: Chapter 2 #1-6 <br> review linear combination, span, independence, Gaussian Elimination |9/12 (for WH2) |
 |(6) 9/7|LA review, matrix norm|[Linear algebra review questions](other/LAreviewQ.pdf)|no need to turn in|
