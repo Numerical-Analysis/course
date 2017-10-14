@@ -68,6 +68,9 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(11) 9/26| SVD |Project 2: https://classroom.github.com/a/dI6bTfUp|10/3 midnight|
 |(12) 9/28|Stability, condition number|||
 |(13) 10/3|(Q) projection, gram-schmidt, QR|WH5: ch3.13, ch4.7-10, ch5.1-4, ch6.1|10/12|
+|(14) 10/5||||
+|(15) 10/10||||
+|(16) 10/12|||10/20|
 
 
 
