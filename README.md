@@ -70,7 +70,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(13) 10/3|(Q) projection, gram-schmidt, QR|WH5: ch3.13, ch4.7-10, ch5.1-4, ch6.1|10/12|
 |(14) 10/5|3 algorithms for LS, $V^{\perp}$|||
 |(15) 10/10|Hyperplane, QR with Householder|||
-|(16) 10/12|Polynomial Interplation|WH6: ch6 2-8|10/20|
+|(16) 10/12|Polynomial Interplation|WH6: ch6 #2-8|10/20|
 
 
 
