@@ -71,6 +71,9 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(14) 10/5|3 algorithms for LS, $V^{\perp}$|||
 |(15) 10/10|Hyperplane, QR with Householder|||
 |(16) 10/12|Polynomial Interplation|WH6: ch6 #2-8|10/20|
+| 10/17|Fall break|||
+|(17) 10/19||||
+|(18) 10/24|Midterm|||
 
 
 
