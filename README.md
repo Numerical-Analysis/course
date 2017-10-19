@@ -73,7 +73,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(16) 10/12|Polynomial Interplation|WH6: ch6 #2-8|10/20 5pm|
 | 10/17|Fall break|||
 |(17) 10/19||||
-|(18) 10/24|Midterm|||
+|(18) 10/24|Midterm|Project 3:|10/31 midnight|
 
 
 
