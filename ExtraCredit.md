@@ -1,10 +1,12 @@
 #  Extra credit recorder
 
+Angelo Bravo: +1 (wh6)
+
 Juanita Gomez: +1 (notes correction)
 
 Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
 
-Brendan Jenkins: +1 (LAreviewQ), +1(10/19)
+Brendan Jenkins: +1 (LAreviewQ), +1(10/19), +0.5 (typo)
 
 John Lague: +1 (matrix norm), +0.5 (pricipal), +1 (10/5 in class), +1(10/19)
 
