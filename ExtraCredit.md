@@ -14,4 +14,6 @@ JC P.:+2 (10/5)
 
 Shyam S.: +2 (10/5), +1(midterm solution)
 
+Ien Whang: +0.5 (notes typo)
+
 Kevin Wong: +1 (syllabus), +1(10/19)
