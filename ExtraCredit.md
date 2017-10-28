@@ -2,6 +2,8 @@
 
 Angelo Bravo: +1 (wh6)
 
+Lance F. +2 (notes correction)
+
 Juanita Gomez: +1 (notes correction)
 
 Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
