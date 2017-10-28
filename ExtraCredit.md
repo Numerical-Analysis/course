@@ -12,6 +12,6 @@ John Lague: +1 (matrix norm), +0.5 (pricipal), +1 (10/5 in class), +1(10/19)
 
 JC P.:+2 (10/5)
 
-Shyam S.: +2 (10/5)
+Shyam S.: +2 (10/5), +1(midterm solution)
 
 Kevin Wong: +1 (syllabus), +1(10/19)
