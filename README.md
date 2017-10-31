@@ -72,9 +72,10 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(15) 10/10|Hyperplane, QR with Householder|||
 |(16) 10/12|Polynomial Interplation|WH6: ch6 #2-8|10/20 5pm|
 | 10/17|Fall break|||
-|(17) 10/19||||
+|(17) 10/19|Midterm Review|||
 |(18) 10/24|Midterm|||
 |(19) 10/26|Chebyshev nodes, spline|Project 3: https://classroom.github.com/a/RsF7mX4C| 11/3 midnight|
+|(20) 10/31|Optimization|||
 
 
 
