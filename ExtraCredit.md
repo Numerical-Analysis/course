@@ -6,6 +6,8 @@ Lance F. +2 (notes correction)
 
 Juanita Gomez: +1 (notes correction)
 
+Kelly H. +0.5
+
 Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
 
 Brendan Jenkins: +1 (LAreviewQ), +1(10/19), +0.5 (typo)
