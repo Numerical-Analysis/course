@@ -77,7 +77,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(18) 10/26|Chebyshev nodes, spline|Project 3: https://classroom.github.com/a/RsF7mX4C| 11/3 midnight|
 |(19) 10/31|Optimization|Project 4: https://classroom.github.com/a/48Kuy95m|11/7 midnight|
 |(20) 11/2|Optimization, eigenvalue|||
-|(21) 11/7||WH6: Chapter 7: 1-9|11/14 in class|
+|(21) 11/7||Read section 7.3.1. WH6: Chapter 7: 1-9|11/14 in class|
 
 
 
