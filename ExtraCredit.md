@@ -6,7 +6,7 @@ Lance F. +2 (notes correction)
 
 Juanita Gomez: +1 (notes correction)
 
-Kelly H. +0.5
+Kelly H. +0.5+0.5(typo)
 
 Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
 
@@ -18,6 +18,6 @@ JC P.:+2 (10/5)
 
 Shyam S.: +2 (10/5), +1(midterm solution)
 
-Ien Whang: +0.5 (notes typo)
+Ien Whang: +0.5 (notes typo), +1 (notes correction)
 
 Kevin Wong: +1 (syllabus), +1(10/19)
