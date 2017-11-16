@@ -8,7 +8,7 @@ Juanita Gomez: +1 (notes correction)
 
 Kelly H. +0.5+0.5(typo)
 
-Sahil Jain: +1 (WHW1 correction) +1(matrix norm)
+Sahil Jain: +1 (WHW1 correction) +1(matrix norm) +1(wh7)
 
 Brendan Jenkins: +1 (LAreviewQ), +1(10/19), +0.5 (typo)
 
