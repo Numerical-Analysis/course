@@ -81,7 +81,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(22) 11/9|eigenvalue problem|||
 |(23) 11/14|Iterative Ax=b| WH8: Chapter 8 #1-6|11/21 in class|
 |(24) 11/16|Iterative Ax=b: steepest descent| ||
-|(25) 11/21|Iterative Ax=b: steepest descent| WH9: Chapter 9 #1-8|11/28 in class|
+|(25) 11/21|Iterative Ax=b: steepest descent| WH9: Chapter 9 #1-8|11/29 5pm|
 
 
 
