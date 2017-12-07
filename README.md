@@ -85,6 +85,7 @@ Python 2.7 and Jupyter Notebook. I recommend you install [Ananconda (Python 2.7 
 |(26) 11/23|CGD|||
 |(27) 11/28|CGD|||
 |(28) 11/30|CGD, PCA|WH10: chapter 10 #1-10|12/8 5pm|
+|(29) 12/5|page rank|Final project:https://classroom.github.com/a/rIHdtVRF|12/14 midnight|
 
 
 
